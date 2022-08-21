@@ -1,0 +1,49 @@
+{
+  "productos": [
+    {
+      "nombre": "Pasta Caracoles",
+      "precio": 660,
+      "id": 1
+    },
+    {
+      "nombre": "Pasta Espirales",
+      "precio": 660,
+      "id": 2
+    },
+    {
+      "nombre": "Pasta Corbatas",
+      "precio": 720,
+      "id": 3
+    },
+    {
+      "nombre": "Aceite Oliva",
+      "precio": 3990,
+      "id": 4
+    },
+    {
+      "nombre": "Vinagre Blanco",
+      "precio": 850,
+      "id": 5
+    },
+    {
+      "nombre": "Galletas De Arroz",
+      "precio": 1250,
+      "id": 6
+    },
+    {
+      "nombre": "Café Instantáneo",
+      "precio": 4990,
+      "id": 7
+    },
+    {
+      "nombre": "Barras De Cereal",
+      "precio": 1170,
+      "id": 8
+    },
+    {
+      "nombre": "Endulzante Liquido",
+      "precio": 2550,
+      "id": 9
+    }
+  ]
+}
